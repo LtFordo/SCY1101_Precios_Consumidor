@@ -13,12 +13,12 @@
 * presenta desafíos técnicos ideales para la evaluación, tales como la necesidad de gestionar valores nulos, identificar outliers en los precios reportados y
 * realizar ingeniería de características para analizar tendencias temporales o variaciones por categoría.
 
-## 🛠️ Justificación del Entorno
+## Justificación del Entorno
 Hemos decidido utilizar **[Google Colab / Jupyter Notebook Local]** para el desarrollo de este proyecto por las siguientes razones:
 1. **Integración con GitHub:** Facilita el versionado real y el registro de commits de todos los integrantes [6].
 2. **Gestión de Dependencias:** Permite crear un entorno reproducible mediante un archivo .ipynb.
 3. **Colaboración:** [Si es Colab] Permite el trabajo simultáneo; [Si es Local] Permite un control total sobre el rendimiento y la memoria.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 * `/data`: Contiene el archivo original (`raw`) y el transformado (`processed`).
 * 
