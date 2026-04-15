@@ -8,10 +8,12 @@
 
 ## Descripción del Dataset
 * **Origen:** Google Colab.
-* **Temática:** [Salud, Transporte, Clima, Deportes o Economía] [4].
+* **Temática:** Economía.
 * **Descripción:** Este dataset contiene registros históricos de precios de diversos productos y servicios. Su elección se justifica porque, en su estado "crudo",
 * presenta desafíos técnicos ideales para la evaluación, tales como la necesidad de gestionar valores nulos, identificar outliers en los precios reportados y
 * realizar ingeniería de características para analizar tendencias temporales o variaciones por categoría.
+* Debido a la sobredimensión de datos para el proyecto, se decidió elegir únicamente los registros de la región de Arica y Parinacota, siendo la que cumplía con el
+* mínimo de datos pedidos, pero sin extenderse por sobre los 25 MB de peso del archivo .csv para la carga en Github.
 
 ## Justificación del Entorno
 Hemos decidido utilizar **[Google Colab / Jupyter Notebook Local]** para el desarrollo de este proyecto por las siguientes razones:
